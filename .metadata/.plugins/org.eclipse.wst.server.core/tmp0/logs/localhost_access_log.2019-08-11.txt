@@ -1,0 +1,7 @@
+127.0.0.1 - - [11/Aug/2019:11:14:02 +0530] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [11/Aug/2019:11:14:04 +0530] "GET /student_management/Login HTTP/1.1" 200 343
+127.0.0.1 - - [11/Aug/2019:11:43:38 +0530] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [11/Aug/2019:11:43:39 +0530] "GET /student_management/Profile HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Aug/2019:11:43:39 +0530] "GET /student_management/Login HTTP/1.1" 200 343
+0:0:0:0:0:0:0:1 - - [11/Aug/2019:11:43:39 +0530] "GET /favicon.ico HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [11/Aug/2019:11:43:47 +0530] "POST /student_management/Check_User HTTP/1.1" 200 30

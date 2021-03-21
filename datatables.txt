@@ -1,0 +1,10 @@
+create database stud;
+use stud;
+
+create table users(eid int primary key,username varchar(100) primary key,password varchar(100));
+insert into users values('admin','admin');
+
+create table emp(id int primary key auto_increment,uname varchar(25), ename varchar(50), city varchar(50), dob date,gender varchar(6),phone varchar(10), status varchar(15));
+insert into emp(ename,city,dob,gender,phone,status) values('dhruv','surat','1999-06-29','Male','9724458418','Active');
+insert into emp(ename,city,dob,gender,phone,status) values('Viral','navsari','2000-05-19','Male','8722855518','Active');
+insert into emp(ename,city,dob,gender,phone,status) values('shivu','navsari','2000-05-19','Female','8728458518','Active');

@@ -1,0 +1,111 @@
+
+import java.sql.*;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Connection;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
+
+/**
+ * Servlet implementation class register
+ */
+@WebServlet("/register")
+public class register extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public register() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see Servlet#init(ServletConfig)
+	 */
+	public void init(ServletConfig config) throws ServletException {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see HttpServlet#service(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		
+		response.setContentType("text/html");
+		PrintWriter pw=response.getWriter();
+		String uname=request.getParameter("uname");
+		String ename=request.getParameter("ename");
+		String city=request.getParameter("city");
+		String dob=request.getParameter("dob");
+		String address=request.getParameter("address");
+		String gender=request.getParameter("gender");
+		String phone=request.getParameter("phone");
+		String passwd=request.getParameter("passwd");
+		try{
+			Connection con = ConnectDB.connect();
+			//Statement st=(Statement) con.createStatement();
+			
+	
+				String q="insert into registration(ename,city,dob,address,gender,phone,password) values(?,?,?,?,?,?,?)";
+				PreparedStatement pd=con.prepareStatement(q);
+				pd.setString(1, ename);
+				pd.setString(2, city);
+				pd.setString(3, dob);
+				pd.setString(4, address);
+				pd.setString(5, gender);
+				pd.setString(6, phone);
+				
+				int n=pd.executeUpdate();
+				if(n==1)
+				{
+					
+					
+					
+						q="insert into users(username,password) values(?,md5(?))";
+						pd=con.prepareStatement(q);
+						//pd.setInt(1,rs.getInt(1));
+						pd.setString(1, uname);
+						pd.setString(2, passwd);
+						int m=pd.executeUpdate();
+						
+						if(m==1)
+						{
+							
+							pw.print("Successfull registered");
+						}
+						else
+						{
+							pw.print("not registered");
+						}
+				
+			}
+		}catch(Exception e){
+			pw.print(e);
+		}
+	}
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+}

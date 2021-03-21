@@ -1,0 +1,104 @@
+
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class Login
+ */
+@WebServlet("/Login")
+public class Login extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public Login() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see Servlet#init(ServletConfig)
+	 */
+	public void init(ServletConfig config) throws ServletException {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see Servlet#destroy()
+	 */
+	public void destroy() {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see HttpServlet#service(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+response.setContentType("text/html");
+		
+		PrintWriter pw = response.getWriter();
+		
+		request.getRequestDispatcher("Logout").include(request, response);  
+		//RequestDispatcher rd=request.getRequestDispatcher("Logout");rd.include(request, response)
+		// Login Form Design
+		
+		pw.print( "<html>"
+				
+				+ "<head><title>Employee Login </title>"
+				
+				+ "<style>"
+				
+					+ "body{font-family:arial;}"
+					
+				+ "</style>"
+				
+				+ "</head>"
+				
+				+ "<body style='background-image:url(bg.jpg)'>"
+				
+				+ "<center>"
+				
+				+ "<h1>Employee Login</h1>"
+				
+				+ "	<form action='Check_User' method='post'>"
+
+				+ "		<input type='text' name='uname' placeholder='Username' required><br><br>"
+				
+				+ "		<input type='password' name='pass' placeholder='Password' required>"
+				
+				+ "		<br><br><input type='submit' value='Go'>"
+				
+				+ "	</form>"
+				
+				+ "</center>"
+				
+				+ " </body>"
+				
+				);	
+	}
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+}

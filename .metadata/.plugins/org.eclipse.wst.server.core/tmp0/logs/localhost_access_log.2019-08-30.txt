@@ -1,0 +1,14 @@
+127.0.0.1 - - [30/Aug/2019:10:05:01 +0530] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:05:41 +0530] "GET /student_management/Login HTTP/1.1" 200 977
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:05:41 +0530] "GET /favicon.ico HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:05:59 +0530] "POST /student_management/Check_User HTTP/1.1" 200 1575
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:06:07 +0530] "GET /student_management/Leave.html HTTP/1.1" 200 1748
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:06:09 +0530] "GET /student_management/View_Leave HTTP/1.1" 200 3109
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:06:12 +0530] "GET /student_management/account HTTP/1.1" 200 1814
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:06:14 +0530] "GET /student_management/messageEmp HTTP/1.1" 200 1126
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:06:16 +0530] "GET /student_management/Logout HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:06:16 +0530] "GET /student_management/Login HTTP/1.1" 200 977
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:06:26 +0530] "POST /student_management/Check_User HTTP/1.1" 200 2704
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:06:32 +0530] "GET /student_management/messageA HTTP/1.1" 200 2087
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:06:54 +0530] "POST /student_management/Check_User HTTP/1.1" 200 1055
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:10:06:57 +0530] "GET /student_management/register.html HTTP/1.1" 200 1866

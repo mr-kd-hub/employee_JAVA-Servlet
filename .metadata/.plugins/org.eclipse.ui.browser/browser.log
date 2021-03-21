@@ -1,0 +1,835 @@
+
+Aug 12, 2019 09:21:36.94 NEW SESSION
+Aug 12, 2019 09:21:36.94 [Parent 8600, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 12, 2019 09:21:36.95 [Child 10400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 12, 2019 09:31:49.65 [Child 10400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/IPDL protocol error: Handler returned error code!
+Aug 12, 2019 09:31:49.65 
+Aug 12, 2019 09:31:49.65 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 12, 2019 09:31:49.65 
+
+Aug 12, 2019 10:45:28.78 NEW SESSION
+Aug 12, 2019 10:45:28.78 IPDL protocol error: Handler returned error code!
+Aug 12, 2019 10:45:28.79 
+Aug 12, 2019 10:45:28.79 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 12, 2019 10:45:28.79 
+Aug 12, 2019 11:00:15.58 IPDL protocol error: Handler returned error code!
+Aug 12, 2019 11:00:15.59 
+Aug 12, 2019 11:00:15.59 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 12, 2019 11:00:15.59 
+Aug 12, 2019 11:00:34.23 IPDL protocol error: Handler returned error code!
+Aug 12, 2019 11:00:34.23 
+Aug 12, 2019 11:00:34.23 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 12, 2019 11:00:34.24 
+
+Aug 13, 2019 17:38:25.17 NEW SESSION
+Aug 13, 2019 17:38:25.17 IPDL protocol error: Handler returned error code!
+Aug 13, 2019 17:38:25.18 
+Aug 13, 2019 17:38:25.18 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 13, 2019 17:38:25.18 
+Aug 13, 2019 19:55:59.17 IPDL protocol error: Handler returned error code!
+Aug 13, 2019 19:55:59.17 
+Aug 13, 2019 19:55:59.17 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 13, 2019 19:55:59.17 
+Aug 13, 2019 20:18:28.18 IPDL protocol error: Handler returned error code!
+Aug 13, 2019 20:18:28.18 
+Aug 13, 2019 20:18:28.18 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 13, 2019 20:18:28.18 
+Aug 13, 2019 20:20:54.16 IPDL protocol error: Handler returned error code!
+Aug 13, 2019 20:20:54.16 
+Aug 13, 2019 20:20:54.16 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 13, 2019 20:20:54.16 
+Aug 13, 2019 20:32:08.10 [Parent 15740, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 13, 2019 20:32:08.12 [Child 3020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 13, 2019 20:32:08.14 [Child 3020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 13, 2019 20:32:08.14 [Child 13284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 13, 2019 20:32:08.14 [Child 13284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 13, 2019 20:32:08.14 
+Aug 13, 2019 20:32:08.16 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.16 
+Aug 13, 2019 20:32:08.21 
+Aug 13, 2019 20:32:08.21 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.21 
+Aug 13, 2019 20:32:08.22 [Child 8004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 13, 2019 20:32:08.22 
+Aug 13, 2019 20:32:08.22 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0074,name=PBrowser::Msg_StopIMEStateManagement) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.23 
+Aug 13, 2019 20:32:08.27 
+Aug 13, 2019 20:32:08.28 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.29 
+Aug 13, 2019 20:32:08.29 
+Aug 13, 2019 20:32:08.30 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.30 
+Aug 13, 2019 20:32:08.35 
+Aug 13, 2019 20:32:08.36 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.36 
+Aug 13, 2019 20:32:08.36 
+Aug 13, 2019 20:32:08.36 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.37 
+Aug 13, 2019 20:32:08.37 
+Aug 13, 2019 20:32:08.37 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.37 
+Aug 13, 2019 20:32:08.37 
+Aug 13, 2019 20:32:08.37 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.37 
+Aug 13, 2019 20:32:08.37 
+Aug 13, 2019 20:32:08.37 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.37 
+Aug 13, 2019 20:32:08.37 
+Aug 13, 2019 20:32:08.38 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.38 
+Aug 13, 2019 20:32:08.38 
+Aug 13, 2019 20:32:08.38 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.38 
+Aug 13, 2019 20:32:08.38 
+Aug 13, 2019 20:32:08.38 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.38 
+Aug 13, 2019 20:32:08.38 
+Aug 13, 2019 20:32:08.38 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.38 
+Aug 13, 2019 20:32:08.39 
+Aug 13, 2019 20:32:08.39 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.39 
+Aug 13, 2019 20:32:08.39 
+Aug 13, 2019 20:32:08.39 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.39 
+Aug 13, 2019 20:32:08.39 
+Aug 13, 2019 20:32:08.39 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.39 
+Aug 13, 2019 20:32:08.39 
+Aug 13, 2019 20:32:08.40 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.40 
+Aug 13, 2019 20:32:08.40 
+Aug 13, 2019 20:32:08.40 ###!!! [Child][MessageChannel] Error: (msgtype=0x350105,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.40 
+Aug 13, 2019 20:32:08.40 
+Aug 13, 2019 20:32:08.40 ###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.40 
+Aug 13, 2019 20:32:08.40 
+Aug 13, 2019 20:32:08.40 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.40 
+Aug 13, 2019 20:32:08.41 
+Aug 13, 2019 20:32:08.41 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E002E,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.41 
+Aug 13, 2019 20:32:08.41 
+Aug 13, 2019 20:32:08.41 ###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+Aug 13, 2019 20:32:08.41 
+
+Aug 19, 2019 13:10:23.97 NEW SESSION
+Aug 19, 2019 13:10:23.97 IPDL protocol error: Handler returned error code!
+Aug 19, 2019 13:10:23.99 
+Aug 19, 2019 13:10:23.99 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 19, 2019 13:10:23.99 
+Aug 19, 2019 13:10:26.80 IPDL protocol error: Handler returned error code!
+Aug 19, 2019 13:10:26.80 
+Aug 19, 2019 13:10:26.80 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 19, 2019 13:10:26.80 
+Aug 19, 2019 13:11:32.48 [Parent 16852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:11:32.48 [Child 2424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:11:35.61 [Child 2424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ip[Child 15960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:11:44.58 [Child 15960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/ta[Parent 16852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:11:44.63 [Child 2336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:11:44.65 [Child 2336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/t[Child 18784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:11:44.68 [Child 18784, Chrome_ChildThrea[Child 13044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:11:44.70 [Child 13044, Chrome_Child[Parent 16852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:11:45.24 [GPU 
+Aug 19, 2019 13:11:45.26 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 19, 2019 13:11:45.26 
+Aug 19, 2019 13:11:45.26 16916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:11:45.27 
+Aug 19, 2019 13:11:45.27 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 19, 2019 13:11:45.27 
+Aug 19, 2019 13:11:45.27 
+Aug 19, 2019 13:11:45.28 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 19, 2019 13:11:45.28 
+Aug 19, 2019 13:21:38.02 [Child 15720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:21:38.02 [Child 15720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:32:12.50 IPDL protocol error: Handler returned error code!
+Aug 19, 2019 13:32:12.50 
+Aug 19, 2019 13:32:12.50 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 19, 2019 13:32:12.50 
+Aug 19, 2019 13:32:24.94 IPDL protocol error: Handler returned error code!
+Aug 19, 2019 13:32:24.94 
+Aug 19, 2019 13:32:24.94 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 19, 2019 13:32:24.94 
+Aug 19, 2019 13:32:44.26 IPDL protocol error: Handler returned error code!
+Aug 19, 2019 13:32:44.26 
+Aug 19, 2019 13:32:44.26 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 19, 2019 13:32:44.26 
+Aug 19, 2019 13:37:48.02 [Child 19136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:37:48.04 [Child 19136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:37:48.05 [Child 15580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:37:48.05 [Child 15580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/com[Child 15364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:37:48.06 [Child 15364, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Parent 17856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:37:48.06 [Child 15472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:37:49.17 
+Aug 19, 2019 13:37:49.20 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 19, 2019 13:37:49.20 
+Aug 19, 2019 13:37:49.20 [GPU 15620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:37:49.22 
+Aug 19, 2019 13:37:49.22 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 19, 2019 13:37:49.22 
+Aug 19, 2019 13:37:49.23 
+Aug 19, 2019 13:37:49.23 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 19, 2019 13:37:49.24 
+Aug 19, 2019 13:39:42.67 [Child 4496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 19, 2019 13:39:42.67 [Child 4496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+Aug 21, 2019 19:14:21.69 NEW SESSION
+Aug 21, 2019 19:14:21.69 IPDL protocol error: Handler returned error code!
+Aug 21, 2019 19:14:21.72 
+Aug 21, 2019 19:14:21.72 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 21, 2019 19:14:21.72 
+Aug 21, 2019 19:17:04.60 IPDL protocol error: Handler returned error code!
+Aug 21, 2019 19:17:04.62 
+Aug 21, 2019 19:17:04.62 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 21, 2019 19:17:04.62 
+Aug 21, 2019 19:51:06.08 [Parent 8572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:51:06.08 [Child 9168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:51:06.08 [Child 9168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:22.50 [Child 8216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:22.51 [Child 8216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:24.90 [Child 1600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:24.90 [Child 1600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:25.74 
+Aug 21, 2019 19:52:25.74 ###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+Aug 21, 2019 19:52:25.75 
+Aug 21, 2019 19:52:25.84 [Child 1264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:25.84 [Child 1264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:26.02 [Child 864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:26.53 [Child 864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channe[Child 16172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:27.50 [Child 16172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1[Parent 8572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:27.50 [Child 13572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:28.89 [Child 13572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/tas[Parent 8572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:28.89 [Child 12556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:28.89 [Child 12556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:29.63 [Parent 8572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:52:29.63 [Child 9180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:54:11.66 [Child 9180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/c[Parent 8572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 19:54:11.66 [Child 12248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 20:03:26.89 [Child 12248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/iIPDL protocol error: Handler returned error code!
+Aug 21, 2019 20:03:26.89 
+Aug 21, 2019 20:03:26.89 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 21, 2019 20:03:26.89 
+Aug 21, 2019 20:03:55.19 IPDL protocol error: Handler returned error code!
+Aug 21, 2019 20:03:55.19 
+Aug 21, 2019 20:03:55.19 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 21, 2019 20:03:55.19 
+Aug 21, 2019 20:08:42.23 [Parent 8572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 20:08:42.27 [Child 9204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 20:08:42.27 [Child 9204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 20:08:42.27 [Child 9952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 20:08:42.27 [Child 9952, Chrome_ChildThread] WARNING: [Parent 8572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 20:08:42.27 [Child 9028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 20:08:42.27 [Child 9028, Chrome_ChildThread] WARNING: pipe error[Child 14412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 20:08:42.28 [Child 14412, Chrome_Child[Child 4664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 20:08:42.40 [Child 4664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706[Parent 8572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 20:08:42.89 [Child 16708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 21, 2019 20:08:43.91 
+Aug 21, 2019 20:08:43.91 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 21, 2019 20:08:43.91 
+
+Aug 23, 2019 17:45:11.00 NEW SESSION
+Aug 23, 2019 17:45:11.00 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 17:45:11.02 
+Aug 23, 2019 17:45:11.02 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 17:45:11.02 
+Aug 23, 2019 17:45:24.32 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 17:45:24.33 
+Aug 23, 2019 17:45:24.33 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 17:45:24.33 
+Aug 23, 2019 17:45:26.06 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 17:45:26.06 
+Aug 23, 2019 17:45:26.06 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 17:45:26.06 
+Aug 23, 2019 17:53:44.22 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 17:53:44.22 
+Aug 23, 2019 17:53:44.22 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 17:53:44.22 
+Aug 23, 2019 17:56:13.73 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 17:56:13.73 
+Aug 23, 2019 17:56:13.73 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 17:56:13.73 
+Aug 23, 2019 17:56:57.74 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 17:56:57.74 
+Aug 23, 2019 17:56:57.74 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 17:56:57.74 
+Aug 23, 2019 17:57:01.07 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 17:57:01.07 
+Aug 23, 2019 17:57:01.07 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 17:57:01.07 
+Aug 23, 2019 17:57:03.68 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 17:57:03.68 
+Aug 23, 2019 17:57:03.68 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 17:57:03.68 
+Aug 23, 2019 18:02:44.01 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 18:02:44.02 
+Aug 23, 2019 18:02:44.02 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 18:02:44.02 
+Aug 23, 2019 18:10:30.95 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 18:10:30.95 
+Aug 23, 2019 18:10:30.96 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 18:10:30.96 
+Aug 23, 2019 18:11:19.43 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 18:11:19.43 
+Aug 23, 2019 18:11:19.43 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 18:11:19.43 
+Aug 23, 2019 18:12:51.04 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 18:12:51.04 
+Aug 23, 2019 18:12:51.04 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 18:12:51.04 
+Aug 23, 2019 18:12:52.27 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 18:12:52.27 
+Aug 23, 2019 18:12:52.27 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 18:12:52.27 
+Aug 23, 2019 18:12:53.20 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 18:12:53.20 
+Aug 23, 2019 18:12:53.20 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 18:12:53.20 
+Aug 23, 2019 18:12:59.78 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 18:12:59.78 
+Aug 23, 2019 18:12:59.78 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 18:12:59.78 
+Aug 23, 2019 18:13:04.77 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 18:13:04.78 
+Aug 23, 2019 18:13:04.78 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 18:13:04.78 
+Aug 23, 2019 18:13:05.70 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 18:13:05.70 
+Aug 23, 2019 18:13:05.70 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 18:13:05.70 
+Aug 23, 2019 18:13:15.30 [Parent 18056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 23, 2019 18:13:15.30 [Child 3460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 23, 2019 18:41:35.77 [Child 3460, Chrome_ChildThread] WARNING: pipe error: 109:[Child 13068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 23, 2019 18:44:32.33 IPDL protocol error: Handler returned error code!
+Aug 23, 2019 18:44:32.34 
+Aug 23, 2019 18:44:32.34 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 23, 2019 18:44:32.34 
+Aug 23, 2019 19:12:18.55 [Parent 18056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 23, 2019 19:12:18.55 [Child 13900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 23, 2019 19:12:18.55 [Child 13900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 23, 2019 19:18:54.18 [Child 11028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 23, 2019 19:18:54.18 [Child 11028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 23, 2019 19:30:38.23 [Child 12720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 23, 2019 19:30:38.23 [Child 12720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 23, 2019 19:34:07.31 [Child 13680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+Aug 24, 2019 14:21:12.03 NEW SESSION
+Aug 24, 2019 14:21:12.03 [Child 1272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 14:21:12.03 [Child 1272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 15:29:58.47 IPDL protocol error: Handler returned error code!
+Aug 24, 2019 15:29:58.47 
+Aug 24, 2019 15:29:58.47 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 24, 2019 15:29:58.48 
+Aug 24, 2019 15:37:15.08 IPDL protocol error: Handler returned error code!
+Aug 24, 2019 15:37:15.08 
+Aug 24, 2019 15:37:15.08 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 24, 2019 15:37:15.08 
+Aug 24, 2019 16:02:12.19 [Parent 2948, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:02:12.19 [Child 17076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:02:12.19 [Child 17076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:02:13.50 [Parent 2948, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:02:13.51 [Child 12616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:23:47.10 [Child 12616, Chrome_ChildThread] WARNING: pipe error[Parent 2948, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:23:47.15 [Parent 2948, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:23:47.19 [Parent 2948, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+Aug 24, 2019 16:23:47.28 [Parent 2948, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:23:47.28 [Child 13208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:23:47.68 [GPU 14992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:23:47.70 
+Aug 24, 2019 16:23:47.70 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 24, 2019 16:23:47.70 
+Aug 24, 2019 16:23:47.70 
+Aug 24, 2019 16:23:47.71 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 24, 2019 16:23:47.71 
+Aug 24, 2019 16:30:28.63 [Parent 936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:30:28.69 [Child 13504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:30:29.27 [Child 13504, Chrome_ChildThread] WARNING: pipe error: 10
+Aug 24, 2019 16:30:29.28 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 24, 2019 16:30:29.28 
+Aug 24, 2019 16:30:29.28 [GPU 1244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 24, 2019 16:30:29.29 
+Aug 24, 2019 16:30:29.29 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 24, 2019 16:30:29.29 
+Aug 24, 2019 16:30:29.30 
+Aug 24, 2019 16:30:29.30 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 24, 2019 16:30:29.30 
+Aug 25, 2019 10:21:20.14 [Parent 8852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 10:21:20.18 [Parent 8852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 10:21:20.18 [Parent 8852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 10:21:20.18 [Parent 8852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 10:21:20.18 [Parent 8852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 10:21:20.96 [Parent 8852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 10:21:20.98 [Child 4940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 10:21:21.03 [Child 13516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 10:21:21.03 [Child 13516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src[/chrome/common/Cipc_channel_win.cc, line 341h
+Aug 25, 2019 10:21:21.06 ild 10116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 10:21:21.07 [Child 10116, Chrome_ChildThread] WARNING: pipe error: 109: file z[Child 17228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 10:21:21.08 [Child 17228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/ch[Child 21444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 10:22:12.72 [GPU 13264, C
+Aug 25, 2019 10:22:12.72 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 10:22:12.72 
+Aug 25, 2019 10:22:22.30 [Child 21444, Chrome_ChildThread] WARNING: pipe erro[Parent 8852, Main Thread] ###!!! ABORT: file resource://gre/modules/PlacesUtils.jsm, line 1851
+Aug 25, 2019 10:22:22.31 [Parent 8852, Main Thread] ###!!! ABORT: file resource://gre/modules/PlacesUtils.jsm, line 1851
+Aug 25, 2019 10:22:36.18 
+Aug 25, 2019 10:22:36.19 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 10:22:36.19 
+Aug 25, 2019 10:22:36.20 [GPU 19136, Chrome_ChildThrea
+Aug 25, 2019 10:22:36.20 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 10:22:36.20 
+Aug 25, 2019 10:39:00.32 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 10:39:00.32 
+Aug 25, 2019 10:39:00.33 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 10:39:00.33 
+Aug 25, 2019 11:02:07.85 [Parent 15220, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 11:02:07.85 [Child 20000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 11:02:08.56 [Child 20000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/ta
+Aug 25, 2019 11:02:08.58 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 11:02:08.58 
+Aug 25, 2019 11:02:08.60 
+Aug 25, 2019 11:02:08.60 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 11:02:08.60 
+Aug 25, 2019 11:02:08.61 
+Aug 25, 2019 11:02:08.61 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 11:02:08.62 
+Aug 25, 2019 11:29:53.44 [Child 18204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 11:29:53.45 [Child 18204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrom[Chei/ld 4c692o,m Cmon/ihprcom_ec_hannChiledlT_hwin.cc, lreadi]ne WA 341RNI
+Aug 25, 2019 11:29:53.45 NG: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 11:29:53.45 [Child 4692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chr[Child 20384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 11:29:53.47 [Child 20384, Chrome_ChildThread] WARNING: pipe error: 109[Parent 2724, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 11:29:53.47 [Child 3812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 11:29:54.04 [Child 3812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_156570[GPU 19424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 11:29:54.12 
+Aug 25, 2019 11:29:54.12 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 11:29:54.12 
+Aug 25, 2019 11:29:54.13 
+Aug 25, 2019 11:29:54.15 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 11:29:54.15 
+Aug 25, 2019 12:04:34.30 [Parent 15008, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:04:34.30 [Parent 15008, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:04:34.31 [Parent 15008, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:04:34.32 [Child 20112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:04:34.32 [Child 20112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:04:34.32 [Child 14296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:04:34.34 [Child 14296, Chrome_ChildThread] WARNING: pipe erro[Parent 15008, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:04:34.36 [Child 18332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:04:34.85 [Child 18332, Chrome_ChildThread] WARNING: pipe [GPU 16548, Chrome_Chil
+Aug 25, 2019 12:04:34.86 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 12:04:34.86 
+Aug 25, 2019 12:04:34.87 
+Aug 25, 2019 12:04:34.88 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 12:04:34.88 
+Aug 25, 2019 12:05:31.13 [Child 11904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:05:31.14 [Child 11904, Chrome_ChildThread] WARNING: pipe err[Child 1632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:05:31.14 [Child 1632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:05:31.16 [Parent 6648, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:05:32.18 [GPU 13000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 12:05:32.21 
+Aug 25, 2019 12:05:32.21 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 12:05:32.21 
+Aug 25, 2019 12:05:32.22 
+Aug 25, 2019 12:05:32.22 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 12:05:32.23 
+Aug 25, 2019 12:12:10.54 [Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:04:28.46 [Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:04:28.46 [Child 15120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:04:28.46 [Child 15120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:04:29.90 [Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:04:29.90 [Child 7316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:07:04.12 [Child 7316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_15657[Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:07:04.12 [Child 12060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:07:14.61 [Child 12060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/IPDL protocol error: Handler returned error code!
+Aug 25, 2019 13:07:14.61 
+Aug 25, 2019 13:07:14.62 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 13:07:14.62 
+Aug 25, 2019 13:36:24.75 [Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.78 [Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.78 [Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.78 [Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.78 [Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.78 [Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.86 [Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.87 [Child 14188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.87 [Child 14188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.87 [Child 16028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.87 [Child 16028, Chrome_ChildThread] WARNING: pipe [Child 9412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.87 [Child 9412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/[Child 18792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:24.87 [Child 18792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[Child 10880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:25.25 [Child 10880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc[GPU 18468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 13:36:25.27 
+Aug 25, 2019 13:36:25.28 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 13:36:25.28 
+Aug 25, 2019 13:36:25.28 
+Aug 25, 2019 13:36:25.29 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 13:36:25.29 
+Aug 25, 2019 13:37:06.46 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 13:37:06.46 
+Aug 25, 2019 13:37:06.46 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 13:37:06.46 
+Aug 25, 2019 14:22:11.31 [Parent 16688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 14:22:11.32 [Child 872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 14:22:11.32 [Child 872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 14:22:11.97 [Parent 16688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 14:22:11.97 [Child 21312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 14:24:24.50 [Child 21312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/ch[Child 19536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 14:24:24.50 [Child 19536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 14:30:00.62 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 14:30:00.63 
+Aug 25, 2019 14:30:00.63 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 14:30:00.63 
+Aug 25, 2019 14:33:54.25 [Parent 16688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 14:33:54.25 [Child 18840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 14:49:03.91 [Child 18840, Chrome_ChildThread] WARNING: pipe error: 10[Child 11968, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Parent 16688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 14:49:03.91 [Child 17660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 14:49:03.92 [Child 17660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:37:46.13 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 16:37:46.13 
+Aug 25, 2019 16:37:46.14 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 16:37:46.14 
+Aug 25, 2019 16:41:39.72 [Parent 16688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:39.76 [Parent 16688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:39.76 [Parent 16688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:39.76 [Parent 16688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:39.77 [Parent 16688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:39.78 [Child 10276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:39.78 [Child 10276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src[Child 20776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:39.78 [Child 20776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:39.78 [Child 11648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:39.79 [Child 11648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:39.79 [Parent 16688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:39.79 [Child 7772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:41:40.20 [Child 7772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/comm
+Aug 25, 2019 16:41:40.21 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 16:41:40.21 
+Aug 25, 2019 16:41:40.21 
+Aug 25, 2019 16:41:40.21 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 16:41:40.22 
+Aug 25, 2019 16:50:30.87 [Child 7680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:50:30.88 [Child 7680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:50:30.88 [Child 3144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:50:30.90 [Child 3144, Chrome_ChildT[Child 1884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:50:30.90 [Child 1884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 16:50:31.41 [GPU 8764, Chrome_ChildThread] WARNING: p
+Aug 25, 2019 16:50:31.41 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 16:50:31.41 
+Aug 25, 2019 16:50:31.41 
+Aug 25, 2019 16:50:31.41 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 16:50:31.42 
+Aug 25, 2019 16:58:03.43 [Child 8176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:01:40.83 [Child 8176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/[Parent 12896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:19:15.00 [Child 18412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:19:15.00 [Parent 12[Chi8l96,d Gec ko_8IOTh5read6] WAR0NING: ,pi Chropmee _eCrhirldThreor: 10a9d:] WARNING: p ifpie le error: 109: file z:/task_1565706z7:/task_156570675500/build/s/rbc/ipc/chromium/src/chruild/src/ipocme/common/ipc_ch/chromaium/nsrc/chronmeel/co_win.cmcmo, lnine 341/
+Aug 25, 2019 17:19:15.00 ipc_channel_win.cc, line 341
+Aug 25, 2019 17:19:15.00 [Child 8560, Chrome_[Child 1788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:19:15.00 [Child 1788, Chrome_ChildThread] WARNING: pipe err[Child 5272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:19:15.84 [Child 5272, Chr
+Aug 25, 2019 17:19:15.85 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 17:19:15.85 
+Aug 25, 2019 17:19:15.85 
+Aug 25, 2019 17:19:15.85 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 17:19:15.85 
+Aug 25, 2019 17:50:07.46 [Child 11684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:50:07.46 [Child 11684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:52:31.09 [Parent 20092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:52:31.09 [Child 5472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:52:36.24 [Child 5472, Chrome_ChildThread] WARNING: pipe e[Child 8728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/i[Parent 20092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:52:36.25 [Child 17492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:13.82 [Child 17492, Chrome_ChildThread] WARNING: piIPDL protocol error: Handler returned error code!
+Aug 25, 2019 17:56:13.82 
+Aug 25, 2019 17:56:13.82 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 17:56:13.82 
+Aug 25, 2019 17:56:15.13 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 17:56:15.13 
+Aug 25, 2019 17:56:15.13 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 17:56:15.13 
+Aug 25, 2019 17:56:15.52 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 17:56:15.52 
+Aug 25, 2019 17:56:15.52 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 17:56:15.52 
+Aug 25, 2019 17:56:15.89 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 17:56:15.89 
+Aug 25, 2019 17:56:15.89 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 17:56:15.89 
+Aug 25, 2019 17:56:20.82 [Parent 20092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.86 [Child 18808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.86 [Parent 20092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.88 [Parent 20092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.91 [Parent 20092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.91 [Child 14092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.91 [Child 14092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.91 [Parent 20092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.91 [Parent 20092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.91 [Child 19908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.92 [Child 19908, Chrome_ChildThread] WARN[Parent 20092, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+Aug 25, 2019 17:56:20.92 [Child 17876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.92 [Child 17876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.92 [Child 20396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:20.92 [C[Parent 20092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 17:56:21.72 
+Aug 25, 2019 17:56:21.73 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 17:56:21.73 
+Aug 25, 2019 17:56:21.73 
+Aug 25, 2019 17:56:21.73 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 17:56:21.74 
+Aug 25, 2019 17:56:46.85 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 17:56:46.85 
+Aug 25, 2019 17:56:46.85 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 17:56:46.86 
+Aug 25, 2019 17:56:47.28 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 17:56:47.28 
+Aug 25, 2019 17:56:47.28 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 17:56:47.29 
+Aug 25, 2019 17:58:49.53 [Child 9888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 18:00:12.51 [Child 9888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3IPDL protocol error: Handler returned error code!
+Aug 25, 2019 18:00:12.51 
+Aug 25, 2019 18:00:12.51 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 18:00:12.51 
+Aug 25, 2019 18:00:13.31 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 18:00:13.31 
+Aug 25, 2019 18:00:13.31 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 18:00:13.31 
+Aug 25, 2019 18:00:13.76 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 18:00:13.76 
+Aug 25, 2019 18:00:13.76 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 18:00:13.76 
+Aug 25, 2019 19:30:31.89 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 19:30:31.89 
+Aug 25, 2019 19:30:31.89 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 19:30:31.89 
+Aug 25, 2019 19:30:32.47 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 19:30:32.47 
+Aug 25, 2019 19:30:32.47 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 19:30:32.47 
+Aug 25, 2019 19:31:26.09 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 19:31:26.09 
+Aug 25, 2019 19:31:26.09 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 19:31:26.09 
+Aug 25, 2019 19:33:55.67 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 19:33:55.67 
+Aug 25, 2019 19:33:55.67 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 19:33:55.67 
+Aug 25, 2019 19:33:56.18 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 19:33:56.18 
+Aug 25, 2019 19:33:56.19 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 19:33:56.19 
+Aug 25, 2019 19:33:56.57 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 19:33:56.57 
+Aug 25, 2019 19:33:56.57 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 19:33:56.57 
+Aug 25, 2019 19:34:40.60 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 19:34:40.60 
+Aug 25, 2019 19:34:40.60 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 19:34:40.60 
+Aug 25, 2019 19:34:43.36 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 19:34:43.36 
+Aug 25, 2019 19:34:43.36 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 19:34:43.37 
+Aug 25, 2019 19:36:18.02 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 19:36:18.03 
+Aug 25, 2019 19:36:18.03 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 19:36:18.03 
+Aug 25, 2019 19:36:50.68 IPDL protocol error: Handler returned error code!
+Aug 25, 2019 19:36:50.68 
+Aug 25, 2019 19:36:50.68 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 19:36:50.68 
+Aug 25, 2019 19:49:17.54 [Child 3300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrIPDL protocol error: Handler returned error code!
+Aug 25, 2019 19:49:17.54 
+Aug 25, 2019 19:49:17.54 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 25, 2019 19:49:17.55 
+Aug 25, 2019 19:50:08.34 [Parent 868, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 19:50:08.34 [Child 4780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 19:50:08.34 [Child 8384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 19:50:08.34 [Child 8384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 19:50:08.34 [Parent 868, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 19:50:08.34 [Child 1320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 19:50:08.37 [Child 1320, Chrome_ChildThread] WARNING: pipe error: 1[Parent 868, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 19:50:08.40 [Parent 868, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 19:50:09.04 [GPU 17612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 25, 2019 19:50:09.06 
+Aug 25, 2019 19:50:09.07 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 25, 2019 19:50:09.07 
+Aug 25, 2019 19:50:09.07 
+Aug 25, 2019 19:50:09.07 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 25, 2019 19:50:09.08 
+
+Aug 26, 2019 18:24:35.52 NEW SESSION
+Aug 26, 2019 18:24:35.52 IPDL protocol error: Handler returned error code!
+Aug 26, 2019 18:24:35.54 
+Aug 26, 2019 18:24:35.54 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 26, 2019 18:24:35.54 
+Aug 26, 2019 18:25:25.87 IPDL protocol error: Handler returned error code!
+Aug 26, 2019 18:25:25.87 
+Aug 26, 2019 18:25:25.87 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 26, 2019 18:25:25.87 
+Aug 26, 2019 18:26:59.96 IPDL protocol error: Handler returned error code!
+Aug 26, 2019 18:26:59.97 
+Aug 26, 2019 18:26:59.97 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 26, 2019 18:26:59.97 
+Aug 26, 2019 18:27:02.09 IPDL protocol error: Handler returned error code!
+Aug 26, 2019 18:27:02.09 
+Aug 26, 2019 18:27:02.09 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 26, 2019 18:27:02.09 
+Aug 26, 2019 18:27:07.56 [Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 26, 2019 18:27:07.99 [GPU 14164, Chrome_ChildThread] WARNING: pipe error
+Aug 26, 2019 18:27:07.99 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 26, 2019 18:27:07.99 
+Aug 26, 2019 18:27:08.00 
+Aug 26, 2019 18:27:08.00 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 26, 2019 18:27:08.00 
+Aug 26, 2019 18:58:05.98 IPDL protocol error: Handler returned error code!
+Aug 26, 2019 18:58:05.98 
+Aug 26, 2019 18:58:05.99 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 26, 2019 18:58:05.99 
+Aug 26, 2019 18:58:46.15 [Parent 6768, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 26, 2019 18:58:46.15 [Child 11464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 26, 2019 18:58:47.33 [Child 11464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/co[Parent 6768, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 26, 2019 18:58:47.33 [Child 2856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 26, 2019 18:58:48.52 [Child 2856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src[Parent 6768, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 26, 2019 18:58:48.52 [Child 11752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 26, 2019 19:02:07.54 [Child 11752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src[Child 13472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 26, 2019 19:12:02.05 IPDL protocol error: Handler returned error code!
+Aug 26, 2019 19:12:02.08 
+Aug 26, 2019 19:12:02.08 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 26, 2019 19:12:02.09 
+
+Aug 27, 2019 12:14:21.96 NEW SESSION
+Aug 27, 2019 12:14:21.96 [Child 14244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 27, 2019 12:14:21.99 [Child 14244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 27, 2019 12:40:42.36 IPDL protocol error: Handler returned error code!
+Aug 27, 2019 12:40:42.37 
+Aug 27, 2019 12:40:42.37 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 27, 2019 12:40:42.37 
+Aug 27, 2019 12:40:47.03 IPDL protocol error: Handler returned error code!
+Aug 27, 2019 12:40:47.03 
+Aug 27, 2019 12:40:47.03 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 27, 2019 12:40:47.03 
+Aug 27, 2019 12:54:07.29 [Child 16224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 27, 2019 12:54:07.31 [Child 11244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+Aug 28, 2019 08:48:13.48 NEW SESSION
+Aug 28, 2019 08:48:13.48 [Child 18044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 08:48:13.48 [Child 18044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 08:48:13.49 [Parent 9420, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 08:48:13.49 
+Aug 28, 2019 08:48:13.49 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 28, 2019 08:48:13.49 
+Aug 28, 2019 08:48:13.49 [GPU 13604, Chrome_ChildThread] WARNING: pipe er
+Aug 28, 2019 08:48:13.49 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 28, 2019 08:48:13.49 
+Aug 28, 2019 08:48:13.49 
+Aug 28, 2019 08:48:13.50 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 28, 2019 08:48:13.50 
+Aug 28, 2019 08:55:51.39 [Child 9692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 08:58:06.50 IPDL protocol error: Handler returned error code!
+Aug 28, 2019 08:58:06.50 
+Aug 28, 2019 08:58:06.51 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 28, 2019 08:58:06.51 
+Aug 28, 2019 08:58:39.51 IPDL protocol error: Handler returned error code!
+Aug 28, 2019 08:58:39.51 
+Aug 28, 2019 08:58:39.51 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 28, 2019 08:58:39.51 
+Aug 28, 2019 08:58:48.24 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 09:00:07.64 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 09:08:37.33 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 09:11:29.67 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 09:19:28.00 [Child 14572, Chrome_ChildThread] WARNING: pipe error: 10IPDL protocol error: Handler returned error code!
+Aug 28, 2019 09:19:28.00 
+Aug 28, 2019 09:19:28.00 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 28, 2019 09:19:28.01 
+Aug 28, 2019 09:20:05.72 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 09:20:05.73 [Child 9048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 09:20:05.73 [Child 9048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 09:20:16.28 IPDL protocol error: Handler returned error code!
+Aug 28, 2019 09:20:16.28 
+Aug 28, 2019 09:20:16.28 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 28, 2019 09:20:16.29 
+Aug 28, 2019 09:23:21.99 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 09:24:13.72 IPDL protocol error: Handler returned error code!
+Aug 28, 2019 09:24:13.72 
+Aug 28, 2019 09:24:13.72 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 28, 2019 09:24:13.72 
+Aug 28, 2019 09:24:31.44 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 09:25:22.77 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 10:21:39.24 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 10:21:39.31 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 10:21:39.31 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 10:21:39.31 [Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 10:21:39.31 [Child 14980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 10:21:39.34 [Child 14980, Chrome_ChildThread] WARN[Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Aug 28, 2019 10:21:40.65 
+Aug 28, 2019 10:21:40.65 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 28, 2019 10:21:40.66 
+Aug 28, 2019 10:21:40.68 
+Aug 28, 2019 10:21:40.68 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 28, 2019 10:21:40.68 
+Aug 28, 2019 10:21:40.69 
+Aug 28, 2019 10:21:40.69 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 28, 2019 10:21:40.69 
+Aug 28, 2019 12:06:15.03 IPDL protocol error: Handler returned error code!
+Aug 28, 2019 12:06:15.03 
+Aug 28, 2019 12:06:15.03 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 28, 2019 12:06:15.04 
+Aug 28, 2019 12:06:47.25 IPDL protocol error: Handler returned error code!
+Aug 28, 2019 12:06:47.25 
+Aug 28, 2019 12:06:47.26 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 28, 2019 12:06:47.26 
+
+Aug 30, 2019 10:06:35.63 NEW SESSION
+Aug 30, 2019 10:06:35.63 IPDL protocol error: Handler returned error code!
+Aug 30, 2019 10:06:35.64 
+Aug 30, 2019 10:06:35.64 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 30, 2019 10:06:35.64 
+
+Sep 03, 2019 12:46:09.78 NEW SESSION
+Sep 03, 2019 12:46:09.78 
+Sep 03, 2019 12:46:09.80 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Sep 03, 2019 12:46:09.80 
+Sep 03, 2019 12:46:09.80 
+Sep 03, 2019 12:46:09.80 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Sep 03, 2019 12:46:09.80 
+Sep 03, 2019 12:46:09.81 
+Sep 03, 2019 12:46:09.81 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Sep 03, 2019 12:46:09.81 
+Sep 03, 2019 12:46:09.81 
+Sep 03, 2019 12:46:09.81 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Sep 03, 2019 12:46:09.81 
+Sep 03, 2019 12:48:50.53 [Child 9352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 03, 2019 12:48:50.53 [Child 9352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 03, 2019 14:01:25.64 [Child 15328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 03, 2019 14:01:25.64 [Child 15328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 03, 2019 14:22:29.61 [Parent 1504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 03, 2019 14:23:27.70 [Parent 1504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 03, 2019 14:27:29.86 [Parent 1504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 03, 2019 14:29:21.68 [Parent 1504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 03, 2019 14:33:52.92 [Parent 1504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 03, 2019 14:34:12.45 [Child 13324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+Sep 05, 2019 15:31:10.94 NEW SESSION
+Sep 05, 2019 15:31:10.94 [Child 5568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 05, 2019 15:31:11.07 [Child 5568, [Child 3908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 05, 2019 15:31:11.07 [Child 3908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c[Chilc,d l ine 3411
+Sep 05, 2019 15:31:11.07 4624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 05, 2019 15:31:11.08 [Child 14624, Chrome_ChildThread] WARNING: pipe e[Child 15476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 05, 2019 15:31:11.08 [Child 15476, Chrome_ChildThread] WARNING: pipe er[Child 15260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 05, 2019 15:31:11.15 [Child 15260, Chrome_ChildThread] WARNING: pipe e[Parent 16168, Gecko_IOThread] WARNING: file z:/task_1566864336/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+Sep 05, 2019 15:31:11.15 [Parent 16168, Gecko_IOThread] WARNING: file z:/task_1566864336/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+Sep 05, 2019 15:31:11.15 [Parent 16168, Gecko_IOThread] WARNING: file z:/task_1566864336/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+Sep 05, 2019 15:31:11.17 [Parent 16168, Gecko_IOThread] WARNING: file z:/task_1566864336/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+Sep 05, 2019 15:31:11.17 [Parent 16168, Gecko_IOThread] WARNING: file z:/task_1566864336/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+Sep 05, 2019 15:31:11.17 [Parent 16168, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 05, 2019 15:31:11.17 [Child 13604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 05, 2019 15:31:11.17 [Child 13604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 05, 2019 15:31:14.11 [GPU 16328, Chrome_ChildThread] WARNING: pipe error
+
+Sep 05, 2019 15:45:57.95 NEW SESSION
+Sep 05, 2019 15:45:57.95 [Parent 17496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 05, 2019 15:45:57.95 [Child 8648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 05, 2019 15:45:57.97 [Parent 17496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Sep 05, 2019 15:45:58.69 
+Sep 05, 2019 15:45:58.70 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Sep 05, 2019 15:45:58.70 
+Sep 05, 2019 15:45:58.73 
+Sep 05, 2019 15:45:58.73 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Sep 05, 2019 15:45:58.74 
+Sep 05, 2019 15:45:58.75 
+Sep 05, 2019 15:45:58.75 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Sep 05, 2019 15:45:58.75 

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Register</title>
+
+</head>
+<body style="background-color:#85c1e9  ;">
+<form action="register" method="post">
+<center>
+<div style="border:1px solid black;width: 50%;height:70%; margin-top: 10%;">
+<b>Register Employee</b> <br><br>
+<table style="padding: 20px 15px 20px 15px;">
+	<tr>
+	<td>Emplyee Name</td>
+	<td>:</td>
+	<td><input type="text" name="ename" placeholder="Enter Name" required></td>
+	</tr>
+	
+	<tr>
+	<td>Username</td>
+	<td>:</td>
+	<td><input type="text" name="uname" placeholder="Enter Userame" required></td>
+	</tr>
+	
+	<tr>
+	<td>City</td>
+	<td>:</td>
+	<td><input type="text" name="city" placeholder="Enter City" required></td>
+	</tr>
+	
+	<tr>
+	<td>Date of Birth</td>
+	<td>:</td>
+	<td><input type="date" name="dob" placeholder="Enter DAte of birth" required><br><br></td>
+	</tr>
+	
+	<!--  
+	<tr>
+	<td>Address</td>
+	<td>:</td>
+	<td><input type="text" name="address" placeholder="Enter Address" required></td>
+	</tr>
+	-->
+	
+	<tr>
+	<td>Gender</td>
+	<td>:</td>
+	<td>Male<input type="radio" name="gender" value="male" checked>
+		Female<input type="radio" name="gender" value="female"></td>
+	</tr>
+	
+	<tr>
+	<td>Mobile Number</td>
+	<td>:</td>
+	<td><input type="text"  name="phone"  placeHolder="Enter Mobile N0" pattern="[0-9]{10,10}" required/></td>
+	</tr>
+	
+	<tr>
+	<td>Password</td>
+	<td>:</td>
+	<td><input type="password"  name="passwd"  placeHolder="Enter password"  required/></td>
+	</tr>
+	<tr>
+	<td>Status</td>
+	<td>:</td>
+	<td><select name="status">
+		<option value="new">New</option>
+	</select></td>
+	</tr>
+</table>
+<br>
+<button type="submit" name="login" style='width:110px;height:35px;border-radius:25px;padding:5px 10px 5px 10px;' >Register</button>
+
+</div>
+</center>
+		
+		
+		
+		
+		  
+</form>
+</body>
+</html>

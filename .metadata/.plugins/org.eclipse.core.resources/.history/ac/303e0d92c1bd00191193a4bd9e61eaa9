@@ -1,0 +1,159 @@
+import java.sql.*;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+/**
+ * Servlet implementation class SearchResult
+ */
+@WebServlet("/SearchResult")
+public class SearchResult extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public SearchResult() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see Servlet#init(ServletConfig)
+	 */
+	public void init(ServletConfig config) throws ServletException {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see Servlet#destroy()
+	 */
+	public void destroy() {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see HttpServlet#service(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+response.setContentType("text/html");
+		
+		PrintWriter pw = response.getWriter();
+		
+		// Create HttpSession Object
+		
+		HttpSession session = request.getSession(false);
+		
+		// Check session status , already created or not ? if already not created then redirect on Login.java
+		
+		if(session == null)
+		{
+			response.sendRedirect("Login");
+		}
+		
+		Connection con = ConnectDB.connect();
+		
+		try
+		{
+			String q;
+			
+			if(request.getParameter("Fetch").equals("Active"))
+			{
+				q = "select * from emp where status = 'Active'";
+			}
+			else if(request.getParameter("Fetch").equals("Deactive"))
+			{
+				q = "select * from emp where status = 'Deactive'";
+			}
+			else
+			{
+				q = "select * from emp where ename like '%"+ request.getParameter("Fetch") +"%'";
+			}
+			
+			PreparedStatement pst = con.prepareStatement(q);
+			
+			ResultSet rs = pst.executeQuery();
+			
+			pw.print( "<html>"
+					
+					+ "<head><title> Employee Result </title>"
+					
+					+ "<style>"
+					
+						+ "td,th{padding:14px 30px}"
+						+ "body{font-family:arial;}"
+						+ "table{border:1px solid black;padding:20px;}"
+						+ "a{text-decoration:none;border:1px solid black;padding:10px 10px;}"
+						+ "a:hover{color:red;}"
+						
+					+ "</style>"
+					
+					+ "</head>"
+					
+					+ "<body>"
+					
+					+ "<center>"
+					
+					+ "<br>"
+					+ "<br><br>"
+					
+					+ "<h2>Result</h2><br><br>");
+			
+			pw.print("<table style='margin-top:-50px;'><tr><th>Id</th>"
+						      + "<th>Student</th>"
+							  + "<th>Enrollment</th>"
+							  + "<th>Date Of Birth</th>"
+							  + "<th>Gender</th>"
+							  + "<th>Phone</th>"
+							  + "<th>Update</th>"
+							  + "<th>Delete</th></tr>");
+			
+			while(rs.next())
+			{
+				// Fetch record
+				
+				pw.print("<tr><td>"+ rs.getInt(1) + "</td>"
+						   + "<td>"+ rs.getString(2)+ "</td>"
+						   + "<td>"+ rs.getString(3)+ "</td>"
+						   + "<td>"+ rs.getString(4)+ "</td>"
+						   + "<td>"+ rs.getString(5)+ "</td>"
+						   + "<td>"+ rs.getString(6)+ "</td>"
+						   + "<td><a href='OperationForm?Id=" + rs.getInt(1) + "'>Update</a></td>"								    // Update Link
+						   + "<td><a href='OperationWithDatabase?OperationType=Delete&Id=" + rs.getInt(1) + "'>Delete</a></td>"		// Delete Link
+						   + "</tr><br><br>");	
+			}
+			
+			pw.print("</table>");
+			
+			con.close();
+		}
+		catch(Exception ex)
+		{
+			pw.print(ex);
+		}		
+	}
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+}
